@@ -7,6 +7,7 @@ type Metadata = {
   summary: string
   image?: string
   y2gcoder?: string
+  dingcodingco?: string
 }
 
 function parseFrontmatter(fileContent: string) {
