@@ -23,7 +23,7 @@ export function AuthorProfile({ author }: AuthorProfileProps) {
         />
         <div>
           <h3 className="font-bold text-lg text-neutral-900 dark:text-neutral-100">
-            {author.name}
+            {author.name} Sir
           </h3>
           <p className="text-neutral-600 dark:text-neutral-400 mt-1">
             {author.bio}
